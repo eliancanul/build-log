@@ -9,3 +9,6 @@ assert is used in test to check values in test.
 Raise is used to call an Error. 
 
 Today is day 1.5 because I updated my roadmap and study plan, so this is the actual day 1!!!
+
+I returned home around 11 pm to continue studying, here's how it went: 
+    - did 2 extra functions that help me learn about sets and dictionaries better, but the major learning of this session was that the expected type that a function requires is very important for test, I was triying to think why my main program didin't pass the test and was just because the test wanted a dictionary and I was giving it a list. I have to beging thinking more deeply about how the data types correlate with eachother. 
